@@ -2,7 +2,7 @@ macro "default"
 
 
 menu "menu"
-	elem
+	elem 
 		name = "&File"
 	elem 
 		name = "&Quick screenshot"
