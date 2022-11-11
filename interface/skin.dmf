@@ -134,7 +134,7 @@ window "mainwindow"
 		title = "Hispania Station 13"
 		statusbar = false
 		is-maximized = true
-		icon = 'icons\\hispania.png'
+		icon = 'icons\\hispania\\hispania.png'
 		macro = "default"
 		menu = "menu"
 	elem "asset_cache_browser"
